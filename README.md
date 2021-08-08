@@ -1,2 +1,0 @@
-
-Agro machine learning project.
