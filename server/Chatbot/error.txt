@@ -1,0 +1,5 @@
+
+for the nltk error
+https://www.nltk.org/data.html
+import nltk
+nltk.download()
